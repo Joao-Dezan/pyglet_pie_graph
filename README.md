@@ -1,1 +1,1 @@
-# pyglet_pie_graph
+# Pyglet Pie Chart
